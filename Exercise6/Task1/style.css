@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+button{
+    display: block;
+    margin: 20px auto 50px;
+    background-color: white;
+    border: 5px solid cadetblue;
+    padding: 20px 50px;
+    font-size: 22px;
+}
+
+div {
+    margin: 10px;
+    font-size: 26px;
+    text-align: center;
+    font-weight: bolder;
+}
+
