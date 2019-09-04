@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
+
+div{
+    font-family: 'Roboto Mono', monospace;
+    max-width: 80%;
+    margin: 20px auto;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.cursor{
+    opacity: 0;
+    transition: .4s;
+}
+
+.cursor.active{
+    opacity: 1;
+}
