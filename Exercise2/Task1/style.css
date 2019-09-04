@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 400vh;
+}
+
+div {
+    position: fixed;
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
